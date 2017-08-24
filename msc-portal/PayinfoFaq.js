@@ -1,0 +1,1 @@
+import './Payout.scss';

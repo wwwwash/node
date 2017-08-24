@@ -1,0 +1,1 @@
+import '../../Page/Terms/Terms.scss';

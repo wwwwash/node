@@ -1,0 +1,1 @@
+import './Awards.scss';
